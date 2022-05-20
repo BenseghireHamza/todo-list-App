@@ -1,0 +1,73 @@
+@font-face{
+    font-family:Poplight;
+    src:url('../font/Roboto-Medium.ttf');
+}
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+    scroll-behavior:smooth;
+}
+		
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    /*outline: 1px dashed blue; /* Debugging purposes */
+}
+
+/* SECTION Background */
+
+body{
+    font-family: Poplight;
+    min-height: 100vh;
+    overflow-x:hidden;
+}
+
+html::-webkit-scrollbar{
+    width:10px;
+    background-color:#f3904f;
+}
+
+html::-webkit-scrollbar-thumb{
+    background-color:#3b4371;
+    border-radius:10px;
+}
+.background-morning {
+    background: #f3904f; /* fallback for old browsers */
+    background: linear-gradient(
+        to bottom,
+        #3b4371,
+        #f3904f
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.background-afternoon {
+    background: #1a2a6c; /* fallback for old browsers */
+    background: linear-gradient(
+        to bottom,
+        #fdbb2d,
+        #b21f1f,
+        #1a2a6c
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.background-night {
+    background: #c33764; /* fallback for old browsers */
+    background: linear-gradient(
+        to bottom,
+        #1d2671,
+        #c33764
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.background-evening{
+    background-color:#fa6704;
+    background:linear-gradient(
+        to bottom,
+        #7d13d4,
+        #f1731f
+
+    )
+}
