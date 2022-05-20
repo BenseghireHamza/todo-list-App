@@ -1,4 +1,3 @@
 # todo-list-App
 todo list App with some help javaScript and css and html
-
-https://twitter.com/BenseghireHamza/status/1524667098970177536/photo/1
+https://pbs.twimg.com/media/FSi0Er4WQAAjHnf?format=jpg&name=large
