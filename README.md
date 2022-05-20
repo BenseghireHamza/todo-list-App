@@ -3,4 +3,4 @@
 <br>
 <a>https://benseghirehamza-todolistapp.netlify.app/</a>
 
-<img src ="https://pbs.twimg.com/media/FSi0Er4WQAAjHnf?format=jpg&name=large"  width="220" height="220">
+<img src ="https://pbs.twimg.com/media/FSi0Er4WQAAjHnf?format=jpg&name=large"  width="500" height="500">
