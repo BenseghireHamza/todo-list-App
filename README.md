@@ -1,5 +1,5 @@
 ## todo-list-App
-###todo list App with some help javaScript and css and html
+## todo list App with some help javaScript and css and html
 <br>
 <a>https://benseghirehamza-todolistapp.netlify.app/</a>
 
